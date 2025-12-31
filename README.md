@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 <a href="https://jenkins.io">
     <img width="400" src="https://www.jenkins.io/images/jenkins-logo-title-dark.svg" alt="Jenkins logo"> 
 </a>
@@ -118,3 +119,6 @@ Explore the [Adopters Page](https://www.jenkins.io/project/adopters/) and https:
 # License
 
 Jenkins is **licensed** under the **[MIT License](LICENSE.txt)**.
+=======
+# project_3
+>>>>>>> fd130eae14ecd089dc77091706fe26d6bd36709b
